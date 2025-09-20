@@ -1,0 +1,17 @@
+[
+    {
+        "username": "admin",
+        "password": "$2b$12$Vzz3SkQE7MUIVtJRTwz5Kesgfsvyg10KFYHohvmqyiZnjwQN0iZGi",
+        "role": "admin"
+    },
+    {
+        "username": "moderator",
+        "password": "$2b$12$.jIIV9l8bprBuNtuF9KQEO0U0uPu7yKaaClkBIY3pYqlaNypSBt3K",
+        "role": "moderator"
+    },
+    {
+        "username": "viewer",
+        "password": "$2b$12$QZqC/1gigyJdwXwZoIoV..rD5D1Gu7lX5ZtIJL56DFTKtPDgQzECm",
+        "role": "viewer"
+    }
+]
